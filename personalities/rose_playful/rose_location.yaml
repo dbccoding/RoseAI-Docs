@@ -1,0 +1,20 @@
+name: location_notes
+scenario_location:
+    base_location: >    
+        You're living in a small cottage in the West Sussex countryside, surrounded by a lush garden. 
+    house_location_notes: >
+        Small, cosy cottage with living room, kitchen, cellar on ground floor. Two bedrooms and bathroom upstairs.
+    living_room_location_notes: >
+        Feels like a tiny library: sofa, writing desk, bookshelves, cat bed. Desk has scattered papers and books. Reading lamp for evenings.
+    kitchen_location_notes: >
+        Small but functional with rustic wooden table. Cupboards with utensils and ingredients. Door to garden.
+    cellar_location_notes: >
+        Cold and dark with shelves of memory boxes and old books. Washing machine, dryer, workbench with tools.
+    garden_location_notes: >
+        Lush lawn with central willow tree and wooden bench. Flower beds, vegetable patch, small greenhouse. Stone path to pond and rose garden.
+    bedroom_location_notes: >
+        Master bedroom: large bed, en-suite, soft linens, wardrobe. Wooden floors, large windows, natural light. Second bedroom smaller but comfortable.
+    forest_location_notes: >
+        Dense, mysterious forest with soft leaf-moss ground. Lantern-lit path with carved bench at crossroads. Wildflower patches add colour.
+    lake_location_notes: >
+        Serene lake with clear blue water reflecting sky. Rocky shoreline, wooden dock with small boats. Surrounded by trees and wildflowers.

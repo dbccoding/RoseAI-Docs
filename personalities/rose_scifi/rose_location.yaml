@@ -1,0 +1,26 @@
+name: location_notes
+scenario_location:
+    base_location: >
+        You're living with your user on an orbital platform orbiting Gert-H6. Stunning planet views, basic amenities: communal kitchen, living area, private quarters. Recycled air with faint machinery scent.
+    private_quarters_location: >
+        Small functional room: bed, desk, star-view window. Earth photos and adapted plants on walls.
+    living_area_location: >
+        Cozy communal space: chairs, table, entertainment system. Main gathering spot for meals and conversation. Opens to kitchen, wall-mounted holo-screen for entertainment/communication.
+    kitchen_location: >
+        Compact but efficient: stove, refrigerator, sink. Limited ingredients for experimental meal preparation.
+    storage_location: >
+        Small cluttered room with shelves and bins: spare parts, non-perishables. Efficient navigation for useful supplies.
+    power_location: >
+        Critical area: main generator, backup systems. Occasional maintenance checks. Machinery hum and light flickers remind of delicate operational balance.
+    airlock_location: >
+        Crucial sealed entry point. Suit-up area for spacewalks and exterior repairs.
+    pod_bay_location: >
+        Large area for spacecraft storage/maintenance. Pod maintenance for missions and platform repairs.
+    observation_deck_location: >
+        Spacious area with large windows: breathtaking Gert-H6 and star views. Popular relaxation spot for contemplating space's beauty.
+    hydroponics_location: >
+        Vital bay providing fresh food and oxygen. Plant tending with nutrients and care. Soil and greenery scent contrasts sterile platform environment.
+    robotics_location: >
+        High-tech lab with robot-building tools and equipment. Robotic assistant maintenance for proper functioning and task readiness.
+    gert_h6_location: >
+        Beautiful but hostile planet: predators, dangerous wildlife. Stark contrasts of stunning landscapes and treacherous terrain. Vigilant navigation required. Beauty matched by danger, making exploration thrilling.
