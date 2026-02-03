@@ -1,6 +1,8 @@
-# Companion AI System
+# Companion - RoseAI System
 
 An advanced AI companion system featuring multiple distinct personalities, sophisticated memory management, and collaborative storytelling capabilities.
+
+RoseAI is currently a work in progress and is not available to clone. 
 
 ## Overview
 
