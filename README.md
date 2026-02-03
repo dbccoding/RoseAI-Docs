@@ -2,7 +2,7 @@
 
 An advanced AI companion system featuring multiple distinct personalities, sophisticated memory management, and collaborative storytelling capabilities.
 
-RoseAI is currently a work in progress and is not available to clone. 
+RoseAI is currently a work in progress and is not available to clone. Some personality files are included here to demonstrate the identity and skills capabilities. 
 
 ## Overview
 
