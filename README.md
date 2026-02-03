@@ -4,6 +4,8 @@ An advanced AI companion system featuring multiple distinct personalities, sophi
 
 RoseAI is currently a work in progress and is not available to clone. Some personality files are included here to demonstrate the identity and skills capabilities. 
 
+This App builds around LMStudio, giving the user the choice of their preferred LLM or SLM models to drive the personality system. The app has mainly been tested with Dan's Personality Engine (Q8 and Q4KS specifically), but should work well with any model that gracefully handles trait injection. Your mileage may vary, and your favourite models may not work as you're expecting - use with this in mind when available. 
+
 ## Overview
 
 RoseAI is a Flask-based conversational AI system featuring Rose, an advanced emotional companion with sophisticated personality variants. The system combines advanced memory management, emotional intelligence, and soft roleplay features to create engaging, context-aware conversations.
