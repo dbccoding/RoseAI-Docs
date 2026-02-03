@@ -6,7 +6,7 @@ RoseAI is currently a work in progress and is not available to clone.
 
 ## Overview
 
-Companion AI (internally named ECHOBOX) is a Flask-based conversational AI system featuring Rose, an advanced emotional companion with sophisticated personality variants. The system combines advanced memory management, emotional intelligence, and romantic roleplay features to create engaging, context-aware conversations.
+Companion AI (internally named ECHOBOX) is a Flask-based conversational AI system featuring Rose, an advanced emotional companion with sophisticated personality variants. The system combines advanced memory management, emotional intelligence, and soft roleplay features to create engaging, context-aware conversations.
 
 ## Architecture
 
@@ -38,15 +38,15 @@ Companion AI (internally named ECHOBOX) is a Flask-based conversational AI syste
 - **Purpose**: Advanced emotional companion with sophisticated personality variants
 - **Personality Variants**:
   - **Rose Default**: Core emotional companion with balanced interactions
-  - **Rose Playful**: Cheeky, flirty variant with light teasing and wit
+  - **Rose Playful**: Cheeky variant with light teasing and wit
   - **Rose Professional**: More formal, structured interaction style
 - **Features**:
   - Sophisticated emotional classification system with 20+ emotion types
-  - Romantic science fiction roleplay scenario
+  - Science fiction roleplay scenario with meaningful dilemmas to reason through with Rose
   - Advanced memory integration with contextual recall
   - Dynamic personality switching based on user preferences
   - Complex emotional taxonomy with genre-aware responses
-- **Specialties**: Emotional support, romantic roleplay, adult content, sophisticated conversation, personality adaptation
+- **Specialties**: Emotional support, roleplay, sophisticated conversation, personality adaptation and endlessly customisable identity
 
 ## Technical Features
 
